@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
   spec.name           = "Segmentio"
   spec.version        = "4.1"
-  spec.swift_version  = "5.3"
+  spec.swift_version  = "5.7"
 
   spec.homepage = "https://github.com/Yalantis/Segmentio"
   spec.summary = "Animated top/bottom segmented control written in Swift!"
